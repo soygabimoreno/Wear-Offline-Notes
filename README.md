@@ -13,9 +13,10 @@ I prefer write directly 1 or 2 words by keys and when I arrive at home, I do act
 
 This project has been implemented using part of the code and ideas of:
 Wear-Keyboard
+
 https://github.com/idoideas/Wear-Keyboard
  
 by Ido Ideas
-https://github.com/idoideas
 
+https://github.com/idoideas
 
