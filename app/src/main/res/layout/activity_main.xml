@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.wear.widget.BoxInsetLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/MatchParent">
+
+    <FrameLayout
+        style="@style/MatchParent">
+
+        <androidx.wear.widget.WearableRecyclerView
+            android:id="@+id/rv"
+            style="@style/MatchParent"
+            android:background="@color/background"
+            android:scrollbars="vertical"/>
+
+        <ImageButton
+            android:id="@+id/ibRemove"
+            android:layout_marginTop="16dp"
+            android:layout_gravity="top|end"
+            android:src="@drawable/ic_delete_forever"
+            style="@style/Ib"/>
+
+        <ImageButton
+            android:id="@+id/ibAdd"
+            android:layout_marginBottom="16dp"
+            android:layout_gravity="bottom|end"
+            android:src="@drawable/ic_add"
+            style="@style/Ib"/>
+    </FrameLayout>
+</androidx.wear.widget.BoxInsetLayout>

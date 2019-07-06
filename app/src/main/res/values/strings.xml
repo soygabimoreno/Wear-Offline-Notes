@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wear Keyboard Notes</string>
+
+    <string name="char_backspace" translatable="false"><![CDATA[<-]]></string>
+    <string name="char_space" translatable="false">_</string>
+    <string name="char_numbers" translatable="false">123</string>
+    <string name="char_text" translatable="false">ABC</string>
+    <string name="char_caps" translatable="false">^</string>
+
+    <string name="dialog_delete_note_yes_message">The note %1$s has been deleted successfully</string>
+
+    <string name="write_here">Write here…</string>
+    <string name="saved">Saved!</string>
+    <string name="save">Save</string>
+    <string name="write_note">Write note…</string>
+    <string name="ok">OK</string>
+    <string name="Delete">Delete</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="dialog_delete_note_title">Are you sure do you want to delete this note?</string>
+    <string name="dialog_delete_all_notes_title">Are you sure do you want to delete all notes?</string>
+    <string name="dialog_delete_all_notes_yes_message">All the notes have been deleted successfully</string>
+
+    <string name="there_are_no_notes">There are no notes</string>
+</resources>
