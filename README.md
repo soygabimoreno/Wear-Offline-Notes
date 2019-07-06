@@ -1,6 +1,16 @@
 # Wear-Offline-Notes
 App for writing offline notes with a custom keyboard for Android Wear.
 
+<img src="art/demo.gif"> 
+
+<img src="art/1.png" width="100"> <img src="art/2.png" width="100">
+<img src="art/3.png" width="100">
+<img src="art/4.png" width="100">
+<img src="art/5.png" width="100">
+<img src="art/6.png" width="100">
+<img src="art/7.png" width="100">
+<img src="art/8.png" width="100">
+
 I have implemented this project because I have got an old Android watch that the system soft keyboard does not work properly.
 I wanted to save notes when I do sports and the requirements were the following ones:
 - Easy to use 
