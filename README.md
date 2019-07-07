@@ -1,8 +1,10 @@
 # Wear-Offline-Notes
 App for writing offline notes with a custom keyboard for Android Wear.
 
+## Demo
 <img src="art/demo.gif"> 
 
+## Screenshots
 <img src="art/1.png" width="100"> <img src="art/2.png" width="100">
 <img src="art/3.png" width="100">
 <img src="art/4.png" width="100">
@@ -23,7 +25,7 @@ The idea of using voice notes is not the best option for me.
 I prefer write directly 1 or 2 words by keys and when I arrive at home, I do actions with those inputs stored.
 
 ## Special Thanks
-This project has been implemented using part of the code and ideas of [Wear-Keyboard](https://github.com/idoideas/Wear-Keyboard) by [Ido Ideas](https://github.com/idoideas)
+This project has been implemented using part of the code and ideas of [Wear-Keyboard](https://github.com/idoideas/Wear-Keyboard) by [Ido Ideas](https://github.com/idoideas).
 
 ## License
 
