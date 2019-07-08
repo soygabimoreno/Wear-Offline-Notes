@@ -22,7 +22,7 @@ I wanted to save notes when I do sports and the requirements were the following 
 - Use a custom keyboard
 
 The idea of using voice notes is not the best option for me.
-I prefer write directly 1 or 2 words by keys and when I arrive at home, I do actions with those stored inputs.
+I prefer to write directly 1 or 2 words by keys and when I arrive at home, I do actions with those stored inputs.
 
 ## Special Thanks
 This project has been implemented using part of the code and ideas from [Wear-Keyboard](https://github.com/idoideas/Wear-Keyboard) by [Ido Ideas](https://github.com/idoideas).
