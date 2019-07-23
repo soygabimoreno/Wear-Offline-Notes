@@ -15,10 +15,10 @@
         android:layout_alignParentTop="true"
         android:gravity="center">
 
-        <Button
-            android:id="@+id/btnCaps"
+        <ImageButton
+            android:id="@+id/ibCaps"
             style="@style/Btn"
-            android:text="@string/char_caps"/>
+            android:src="@drawable/ic_arrow_upward_white_16dp"/>
 
         <Button
             android:id="@+id/btnSpace"
@@ -27,22 +27,19 @@
 
         <Button
             android:id="@+id/btnNumbers"
-            style="@style/Btn"
-            android:text="@string/char_numbers"
-            android:textSize="7sp"/>
+            style="@style/Btn.7sp"
+            android:text="@string/char_numbers"/>
 
-        <Button
-            android:id="@+id/btnBackspace"
+        <ImageButton
+            android:id="@+id/ibBackspace"
             style="@style/Btn"
-            android:backgroundTint="@color/secondary_text"
-            android:text="@string/char_backspace"/>
+            android:src="@drawable/ic_keyboard_backspace_white_16dp"/>
 
         <Button
             android:id="@+id/btnSave"
-            style="@style/Btn"
+            style="@style/Btn.7sp"
             android:backgroundTint="@color/accent"
-            android:text="@string/ok"
-            android:textSize="10sp"/>
+            android:text="@string/ok"/>
     </LinearLayout>
 
     <TextView

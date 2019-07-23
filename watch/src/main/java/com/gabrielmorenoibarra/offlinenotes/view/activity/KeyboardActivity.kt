@@ -27,9 +27,9 @@ class KeyboardActivity : WearableActivity() {
         const val EXTRA_TEXT = "text"
         const val EXTRA_POSITION = "position"
 
-        private const val CHARS_LETTERS = "abcdefghijklmnopqrstuvwxyz"
-        private const val CHARS_LETTERS_CAPITALIZED = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-        private const val CHARS_NUMBERS = "1234567890"
+        private const val CHARS_LETTERS = "abcdefghijklmnopqrstuvwxyz."
+        private const val CHARS_LETTERS_CAPITALIZED = "ABCDEFGHIJKLMNOPQRSTUVWXYZ."
+        private const val CHARS_NUMBERS = "1234567890."
 
         private const val N_COLUMN_BUTTONS = 4
 
@@ -107,7 +107,7 @@ class KeyboardActivity : WearableActivity() {
     }
 
     private fun initBtnCaps() {
-        btnCaps.setOnClickListener {
+        ibCaps.setOnClickListener {
             if (btnNumbers.text.toString() == charNumbers) {
                 removeAllKeys()
                 if (!capitalized) {
@@ -142,7 +142,7 @@ class KeyboardActivity : WearableActivity() {
     }
 
     private fun initBtnBackspace() {
-        btnBackspace.setOnClickListener {
+        ibBackspace.setOnClickListener {
             val s = tv.text.toString()
             if (s.isNotBlank()) {
                 tv.text = s.substring(0, s.length - 1)

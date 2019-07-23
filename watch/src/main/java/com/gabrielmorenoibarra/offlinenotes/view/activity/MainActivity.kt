@@ -48,9 +48,11 @@ class MainActivity : WearableActivity() {
                     if (editing) {
                         AppPrefsManager.setNote(note.text, position)
                         adapter.setItem(note, position)
+                        rv.smoothScrollToPosition(position)
                     } else {
                         AppPrefsManager.addNote(note.text)
                         adapter.addItem(note)
+                        rv.smoothScrollToPosition(adapter.itemCount - 1)
                     }
                 }
             }
