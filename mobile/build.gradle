@@ -9,8 +9,8 @@ android {
         applicationId "com.gabrielmorenoibarra.offlinenotes"
         minSdkVersion 21
         targetSdkVersion 28
-        versionCode 1
-        versionName "1.0"
+        versionCode 3
+        versionName "0.0.3"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
