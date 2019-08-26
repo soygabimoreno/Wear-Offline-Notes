@@ -2,7 +2,8 @@
 App for writing offline notes with a custom keyboard for Android Wear.
 
 ## Demo
-You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=com.gabrielmorenoibarra.offlinenotes)
+You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=com.gabrielmorenoibarra.offlinenotes).
+
 <img src="art/demo.gif"> 
 
 ## Screenshots
