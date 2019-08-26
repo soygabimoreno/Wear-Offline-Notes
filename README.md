@@ -20,7 +20,7 @@ I have implemented this project because I have got an old Android watch that the
 I wanted to save notes when I do sports and the requirements were the following ones:
 - Easy to use 
 - Fully offline
-- Save data in a persistently
+- Save data persistently
 - Use a custom keyboard
 
 The idea of using voice notes is not the best option for me.
