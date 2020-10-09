@@ -15,7 +15,7 @@ class DelegatedPreferences<T>(val prefs: SharedPreferences, private val defaultV
 
     private fun getPreference(key: String, defaultValue: T): T {
         with(prefs) {
-            val result: Any = when (defaultValue) {
+            val result: Any? = when (defaultValue) {
                 is Boolean -> getBoolean(key, defaultValue)
                 is Int -> getInt(key, defaultValue)
                 is Long -> getLong(key, defaultValue)
