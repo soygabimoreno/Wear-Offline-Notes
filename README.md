@@ -32,7 +32,7 @@ This project has been implemented using part of the code and ideas from [Wear-Ke
 ## License
 
 ```
-  Copyright (C) 2019 Gabriel Moreno
+  Copyright (C) 2019-2020 Gabriel Moreno
  
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.
