@@ -1,5 +1,5 @@
 # Wear Offline Notes
-App for writing offline notes with a custom keyboard for Android Wear.
+App for writing offline notes with a custom keyboard for Wear OS smartwatches.
 
 ## Demo
 You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=soy.gabimoreno.offlinenotes).

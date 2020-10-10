@@ -30,3 +30,4 @@ app/release/output.json
 hs_err_pid*
 **/*.directory
 *.directory
+/watch/release/watch-release.aab
