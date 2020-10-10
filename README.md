@@ -2,7 +2,7 @@
 App for writing offline notes with a custom keyboard for Android Wear.
 
 ## Demo
-You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=com.gabrielmorenoibarra.offlinenotes).
+You can check the app installing it directly on [Google Play](https://play.google.com/store/apps/details?id=soy.gabimoreno.offlinenotes).
 
 <img src="art/demo.gif"> 
 
@@ -32,7 +32,7 @@ This project has been implemented using part of the code and ideas from [Wear-Ke
 ## License
 
 ```
-  Copyright (C) 2019-2020 Gabriel Moreno
+  Copyright (C) 2019-2020 Gabi Moreno
  
   Licensed under the Apache License, Version 2.0 (the "License");
   you may not use this file except in compliance with the License.

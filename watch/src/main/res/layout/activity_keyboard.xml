@@ -5,7 +5,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     android:background="@color/background"
-    tools:context=".view.activity.KeyboardActivity"
+    tools:context="soy.gabimoreno.offlinenotes.view.activity.KeyboardActivity"
     tools:deviceIds="wear_square">
 
     <LinearLayout

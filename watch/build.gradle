@@ -5,10 +5,10 @@ apply plugin: 'kotlin-android-extensions'
 android {
     compileSdkVersion 30
     defaultConfig {
-        applicationId "com.gabrielmorenoibarra.offlinenotes"
+        applicationId "soy.gabimoreno.offlinenotes"
         minSdkVersion 23
         targetSdkVersion 30
-        versionCode 4
+        versionCode 1
         versionName "0.1.0"
     }
     buildTypes {

@@ -1,1 +1,1 @@
-include ':watch', ':offlinenotes', ':mobile'
+include ':watch', ':offlinenotes'
